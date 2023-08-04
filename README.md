@@ -1,1 +1,1 @@
-# Aperture-2
+# mentoring-simple-webpack-starter
